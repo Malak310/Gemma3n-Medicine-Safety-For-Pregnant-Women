@@ -20,6 +20,7 @@ Install the required Python libraries:
 pip install transformers easyocr fastapi uvicorn Pillow torch
 ```
 Note: Ensure Python 3.8+ and pip are installed. Use a virtual environment if possible (python -m venv venv then source venv/bin/activate on Linux/VM).
+Note1: Ensure you logged in Hugging Face first, and have an access token to the "model google/gemma3n-E2b-it".
 
 ### Step 4: Run the Application
 ```
