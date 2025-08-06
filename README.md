@@ -14,7 +14,7 @@ This project is a submission for the "Google - The Gemma 3n Impact Challenge". I
    ```bash
   cd Gemma3n-Medicine-Safety-For-Pregnant-Women
   
-  # Install dependencies (e.g., transformers, easyocr, fastapi) and run:
+# Install dependencies (e.g., transformers, easyocr, fastapi) and run:
   ```bash
   uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 
