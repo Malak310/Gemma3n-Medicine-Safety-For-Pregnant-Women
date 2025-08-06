@@ -11,10 +11,11 @@ This project is a submission for the "Google - The Gemma 3n Impact Challenge". I
   git clone https://github.com/Malak310/Gemma3n-Medicine-Safety-For-Pregnant-Women.git
 
  # Navigate to the folder:
- '''bash
+   ```bash
   cd Gemma3n-Medicine-Safety-For-Pregnant-Women
   
   # Install dependencies (e.g., transformers, easyocr, fastapi) and run:
+  ```bash
   uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 
 Access via http://localhost:8000 or your VM IP.
@@ -32,7 +33,8 @@ Employs EasyOCR for image-to-text conversion.
 # Demo
 Upload an image (e.g., Ciproxin 500) to get instant safety insights.
 
-##
+# Note
+Please note that the model may respond slowly, even after full setup and optimization. This is due to the model's size and processing requirements, which can cause delays during inference.
 
 
 # Acknowledgments
