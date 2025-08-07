@@ -60,30 +60,3 @@ Built for the Gemma 3n Impact Challenge by Google.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-# Technical Details
-Uses Gemma 3n for text analysis.
-Employs EasyOCR for image-to-text conversion.
-- see [writeup.pdf](writeup.pdf) for full documentation.
-- 
-# Demo
-Upload an image (e.g., Ciproxin 500) to get instant safety insights.
-https://youtu.be/0CGYGgb3bzA
-
-# Note
-Please note that the model may respond slowly, even after full setup and optimization. This is due to the model's size and processing requirements, which can cause delays during inference.
-
-
-# Acknowledgments
-Built for the Gemma 3n Impact Challenge by Google.
