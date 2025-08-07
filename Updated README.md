@@ -55,7 +55,7 @@ https://youtu.be/VNSp0hg4Kag?si=wdJmxHR9akV1dtu9
 ### Note
 The model may respond slowly due to its size and processing needs, causing inference delays. Test with small images first.
 
-###Acknowledgments
+### Acknowledgments
 Built for the Gemma 3n Impact Challenge by Google.
 
 
