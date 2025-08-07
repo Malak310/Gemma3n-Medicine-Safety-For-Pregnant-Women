@@ -50,7 +50,7 @@ Port Conflicts: Ensure port 8000 is free; change if needed (e.g., --port 8001).
 
 ## Demo
 Upload an image (e.g., Ciproxin 500) to get instant safety insights.
-https://youtu.be/0CGYGgb3bzA?si=18Rcrur_BRU9e63X
+https://youtu.be/VNSp0hg4Kag?si=wdJmxHR9akV1dtu9
 
 ### Note
 The model may respond slowly due to its size and processing needs, causing inference delays. Test with small images first.
